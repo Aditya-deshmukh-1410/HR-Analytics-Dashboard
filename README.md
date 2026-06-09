@@ -51,7 +51,7 @@ HR-Analytics-Dashboard/
 ## 📸 Dashboard Preview
 
 ### 🔵 Age Group 18-25
-![Dashboard 18-25](image1.jpeg)
+![Dashboard 18-25](image4.jpeg)
 
 ### 🔵 Age Group 36-45
 ![Dashboard 36-45](image2.jpeg)
@@ -60,7 +60,7 @@ HR-Analytics-Dashboard/
 ![Dashboard HR](image3.jpeg)
 
 ### 🔵 Age Group 55+
-![Dashboard 55+](image4.jpeg)
+![Dashboard 55+](image1.jpeg)
 
 ---
 
