@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)
 
-> An interactive HR Analytics Dashboard built using **Power BI** to analyze employee attrition, workforce trends, and department-wise insights.
+ An interactive HR Analytics Dashboard built using **Power BI** to analyze employee attrition, workforce trends, and department-wise insights.
 
 ---
 
