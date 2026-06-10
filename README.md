@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 Project Overview
+## 📌 Project Overview 
 
 This dashboard helps HR teams understand key workforce metrics through interactive visualizations and filters across different age groups and departments.
 
