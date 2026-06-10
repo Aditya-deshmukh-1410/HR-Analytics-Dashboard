@@ -8,7 +8,7 @@
  An interactive HR Analytics Dashboard built using **Power BI** to analyze employee attrition, workforce trends, and department-wise insights.
 
 ---
-
+ 
 ## 📌 Project Overview 
 
 This dashboard helps HR teams understand key workforce metrics through interactive visualizations and filters across different age groups and departments.
