@@ -3,7 +3,7 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![CSV](https://img.shields.io/badge/Dataset-CSV-blue?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)
+![Domain](https://img.shields.io/badge/Domain-HR%20Analytics-red?style=for-the-badge)
 
  An interactive HR Analytics Dashboard built using **Power BI** to analyze employee attrition, workforce trends, and department-wise insights.
 
